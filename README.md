@@ -1,4 +1,4 @@
-# Oi, eu sou o Samuel Braga
+# Samuel Lins C. Braga
 
 Estudante de **Ciência da Computação na [CESAR School](https://www.cesar.school/)**, em Recife (PE).
 Gosto de fazer jogos e pequenos utilitários para resoluções de problemas.
