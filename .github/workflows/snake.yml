@@ -19,9 +19,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # cores do álbum Favourite Worst Nightmare: cobra rosa, contribuições em escala de mostarda
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#D11547&color_dots=#EBE6DC,#E6D98A,#CDB52E,#A08C08,#6B5E05
+            dist/github-snake-dark.svg?color_snake=#D11547&color_dots=#2B2928,#4A4410,#7A6E08,#A8960A,#D9BD1E
 
       - name: Publicar os SVGs na branch output
         uses: crazy-max/ghaction-github-pages@v5
