@@ -24,9 +24,6 @@ Gerenciador de senhas de terminal com criptografia AES-GCM, derivação de chave
 
 ![Python](https://img.shields.io/badge/Python-2B2928?style=flat&logo=python&logoColor=C9AE12)
 ![Godot](https://img.shields.io/badge/Godot-2B2928?style=flat&logo=godotengine&logoColor=C9AE12)
-![C#](https://img.shields.io/badge/C%23-2B2928?style=flat&logo=dotnet&logoColor=C9AE12)
-![TypeScript](https://img.shields.io/badge/TypeScript-2B2928?style=flat&logo=typescript&logoColor=C9AE12)
-![JavaScript](https://img.shields.io/badge/JavaScript-2B2928?style=flat&logo=javascript&logoColor=C9AE12)
 ![Linux](https://img.shields.io/badge/Linux-2B2928?style=flat&logo=linux&logoColor=C9AE12)
 
 ## Ouvindo agora
