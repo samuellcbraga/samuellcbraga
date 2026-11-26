@@ -1,5 +1,4 @@
-# Samuel Lins C. Braga
-
+# Samuel Lins 
 Estudante de **Ciência da Computação na [CESAR School](https://www.cesar.school/)**, em Recife (PE).
 Gosto de fazer jogos e pequenos utilitários para resoluções de problemas.
 
